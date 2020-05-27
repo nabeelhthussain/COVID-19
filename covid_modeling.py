@@ -54,22 +54,3 @@ fig3 = px.scatter_geo(data, locations="Name", locationmode='country names',color
                      title='Number of Recovered over time')
 fig3.update(layout_coloraxis_showscale=True)
 fig3.show()
-
-
-# In[9]:
-
-
-
-
-
-# In[10]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
