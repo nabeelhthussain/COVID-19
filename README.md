@@ -8,4 +8,4 @@ Still images and numerical tables do not effectively show rate of transmission o
 It is more effective to use dynamic geoscatter plots and additional advanced visualization techniques.
 
 ![alt text](covid_cases_heatmap.gif)
-![alt text](covid_cases_heatmap.gif)
+![alt text](covid_cases_chart.gif)
